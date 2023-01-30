@@ -1,1 +1,1 @@
-# electron + vite + vue = awesome
+# 这里是 [vue-clownfish-admin](https://github.com/1esse/vue-clownfish-admin)的electron版本
